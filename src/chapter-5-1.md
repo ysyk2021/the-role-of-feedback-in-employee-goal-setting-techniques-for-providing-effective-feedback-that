@@ -1,4 +1,4 @@
-Chapter 5: Giving Constructive Feedback that Promotes Improvement: Strategies for Giving Constructive Feedback
+Strategies for Giving Constructive Feedback
 ==============================================================================================================
 
 Giving constructive feedback is an essential tool for promoting improvement in individuals and teams. In this chapter, we will explore strategies for giving constructive feedback that promotes improvement.

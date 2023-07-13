@@ -1,4 +1,4 @@
-Chapter 6: Receiving Feedback as an Opportunity for Growth: Overcoming Resistance to Feedback
+Overcoming Resistance to Feedback
 =============================================================================================
 
 Receiving feedback can be challenging, but it is an essential part of personal and professional growth. In this chapter, we will explore strategies for overcoming resistance to feedback and receiving feedback as an opportunity for growth.

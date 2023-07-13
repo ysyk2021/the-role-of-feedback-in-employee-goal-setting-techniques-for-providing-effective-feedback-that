@@ -1,7 +1,6 @@
 # Summary
 
-- [Introduction](README.md)
-- [Chapter 1: Introduction](chapter-1.md)
+- [Chapter 1: Introduction](README.md)
   - [Defining the Role of Feedback in Employee Goal Setting](chapter-1-1.md)
   - [The Importance of Effective Feedback in Driving Performance](chapter-1-2.md)
   - [Why Understanding Feedback Techniques is Critical for Success](chapter-1-3.md)
@@ -33,9 +32,5 @@
   - [Metrics for Measuring Goal Achievement and Performance Improvement](chapter-8-1.md)
   - [Evaluating Individual and Team Performance](chapter-8-2.md)
   - [Continuous Improvement in Feedback Techniques](chapter-8-3.md)
-- [Chapter 9: Conclusion](chapter-9.md)
-  - [Recap of Key Points and Strategies](chapter-9-1.md)
-  - [Final Recommendations for Feedback Techniques in Employee Goal Setting](chapter-9-2.md)
-  - [Future Directions for Research and Practice](chapter-9-3.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)

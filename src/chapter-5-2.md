@@ -1,4 +1,4 @@
-Chapter 5: Giving Constructive Feedback that Promotes Improvement: The Importance of Specificity and Clarity
+The Importance of Specificity and Clarity
 ============================================================================================================
 
 Giving feedback is an essential tool for promoting improvement in individuals and teams. In this chapter, we will explore the importance of specificity and clarity when giving constructive feedback.

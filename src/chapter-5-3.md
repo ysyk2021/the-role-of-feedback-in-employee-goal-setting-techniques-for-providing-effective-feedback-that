@@ -1,4 +1,4 @@
-Chapter 5: Giving Constructive Feedback that Promotes Improvement: Addressing Performance Gaps through Constructive Feedback
+Addressing Performance Gaps through Constructive Feedback
 ============================================================================================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore how to give constructive feedback that promotes improvement and addresses performance gaps.

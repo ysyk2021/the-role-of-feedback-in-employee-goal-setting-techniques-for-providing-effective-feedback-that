@@ -1,4 +1,4 @@
-Chapter 7: Incorporating Ongoing Feedback into Goal Setting: The Benefits of Ongoing Feedback
+The Benefits of Ongoing Feedback
 =============================================================================================
 
 Effective goal setting is critical for driving performance and achieving organizational goals. In this chapter, we will explore the benefits of incorporating ongoing feedback into goal setting.

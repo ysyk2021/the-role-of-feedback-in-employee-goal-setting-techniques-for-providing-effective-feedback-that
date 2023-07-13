@@ -1,4 +1,4 @@
-Chapter 2: The Science of Feedback: Overview of Feedback Theory and Research
+Overview of Feedback Theory and Research
 ============================================================================
 
 Effective feedback is essential for driving performance and achieving organizational goals. In this chapter, we will explore the scientific principles behind feedback, including the theory and research that supports its use.

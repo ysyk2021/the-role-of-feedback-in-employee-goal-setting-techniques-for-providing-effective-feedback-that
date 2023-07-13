@@ -1,4 +1,4 @@
-Chapter 8: Measuring and Evaluating Feedback Success: Evaluating Individual and Team Performance
+Evaluating Individual and Team Performance
 ================================================================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore techniques for measuring and evaluating feedback success in the context of individual and team performance.

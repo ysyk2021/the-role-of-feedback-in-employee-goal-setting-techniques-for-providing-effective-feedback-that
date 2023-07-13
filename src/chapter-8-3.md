@@ -1,4 +1,4 @@
-Chapter 8: Measuring and Evaluating Feedback Success: Continuous Improvement in Feedback Techniques
+Continuous Improvement in Feedback Techniques
 ===================================================================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore techniques for measuring and evaluating feedback success and continuous improvement in feedback techniques.

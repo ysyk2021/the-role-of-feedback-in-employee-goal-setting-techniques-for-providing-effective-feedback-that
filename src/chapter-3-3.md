@@ -1,4 +1,4 @@
-Chapter 3: Developing SMART Goals and Objectives: Aligning Goals and Objectives with Organizational Strategy
+Aligning Goals and Objectives with Organizational Strategy
 ============================================================================================================
 
 Developing SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and objectives is a crucial step in effective employee goal setting. In this chapter, we will discuss the importance of aligning goals and objectives with organizational strategy and provide tips for developing SMART goals and objectives.

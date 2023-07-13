@@ -1,4 +1,4 @@
-Chapter 4: Providing Positive Feedback that Encourages Growth: Techniques for Providing Positive Feedback
+Techniques for Providing Positive Feedback
 =========================================================================================================
 
 Providing positive feedback is an important part of driving employee performance and encouraging growth. In this chapter, we'll explore some techniques for providing effective positive feedback.

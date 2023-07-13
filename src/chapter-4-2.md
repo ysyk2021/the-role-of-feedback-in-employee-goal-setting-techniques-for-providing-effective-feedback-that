@@ -1,4 +1,4 @@
-Chapter 4: Providing Positive Feedback that Encourages Growth: The Power of Recognition and Rewards
+The Power of Recognition and Rewards
 ===================================================================================================
 
 Providing positive feedback is an important part of driving employee performance and encouraging growth. In this chapter, we'll explore the power of recognition and rewards in providing positive feedback that encourages growth.

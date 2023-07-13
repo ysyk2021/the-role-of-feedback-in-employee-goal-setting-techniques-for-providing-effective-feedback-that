@@ -1,4 +1,4 @@
-Chapter 2: The Science of Feedback: Techniques for Delivering Effective Feedback
+Techniques for Delivering Effective Feedback
 ================================================================================
 
 Effective feedback is a critical component of driving performance and achieving goals. In this chapter, we will explore the science behind effective feedback and techniques for delivering it in a way that is constructive, actionable, and motivating.

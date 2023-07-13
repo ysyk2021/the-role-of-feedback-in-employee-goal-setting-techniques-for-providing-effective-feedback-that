@@ -1,4 +1,4 @@
-Chapter 3: Developing SMART Goals and Objectives: Defining SMART Goals and Objectives
+Defining SMART Goals and Objectives
 =====================================================================================
 
 Developing SMART (Specific, Measurable, Achievable, Relevant, Time-bound) goals and objectives is crucial for effective employee goal setting. In this chapter, we will define each element of SMART goals and objectives and provide examples.

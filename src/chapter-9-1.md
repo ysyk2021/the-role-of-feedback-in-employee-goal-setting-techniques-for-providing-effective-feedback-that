@@ -1,4 +1,4 @@
-Chapter 9: Conclusion: Recap of Key Points and Strategies
+Recap of Key Points and Strategies
 =========================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this book, we have explored the science of feedback and techniques for delivering effective feedback that drives performance and supports growth and development.

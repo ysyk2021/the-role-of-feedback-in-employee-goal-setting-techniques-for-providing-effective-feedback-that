@@ -1,4 +1,4 @@
-Chapter 6: Receiving Feedback as an Opportunity for Growth: Techniques for Receiving Feedback Effectively
+Techniques for Receiving Feedback Effectively
 =========================================================================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore techniques for receiving feedback effectively.

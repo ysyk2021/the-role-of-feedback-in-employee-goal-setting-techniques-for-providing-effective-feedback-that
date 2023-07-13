@@ -1,4 +1,4 @@
-Chapter 8: Measuring and Evaluating Feedback Success: Metrics for Measuring Goal Achievement and Performance Improvement
+Metrics for Measuring Goal Achievement and Performance Improvement
 ========================================================================================================================
 
 Measuring and evaluating feedback success is essential for determining the effectiveness of feedback processes and identifying areas for improvement. In this chapter, we will explore metrics for measuring goal achievement and performance improvement.

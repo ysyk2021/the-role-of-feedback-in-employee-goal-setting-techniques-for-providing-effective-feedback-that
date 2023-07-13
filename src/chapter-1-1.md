@@ -1,4 +1,4 @@
-Chapter 1: Introduction: Defining the Role of Feedback in Employee Goal Setting
+Defining the Role of Feedback in Employee Goal Setting
 ===============================================================================
 
 Feedback plays a crucial role in employee goal setting and performance management. In this chapter, we will define the role of feedback in these processes and explore its importance for organizational success.

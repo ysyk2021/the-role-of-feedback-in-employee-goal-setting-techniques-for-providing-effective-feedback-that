@@ -1,4 +1,4 @@
-Chapter 2: The Science of Feedback: The Relationship Between Feedback and Motivation
+The Relationship Between Feedback and Motivation
 ====================================================================================
 
 Feedback is a critical component of employee goal setting and performance management. In this chapter, we will explore the relationship between feedback and motivation and how it can impact organizational success.

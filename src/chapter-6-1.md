@@ -1,4 +1,4 @@
-Chapter 6: Receiving Feedback as an Opportunity for Growth: Cultivating a Growth Mindset Around Feedback
+Cultivating a Growth Mindset Around Feedback
 ========================================================================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore the importance of cultivating a growth mindset around feedback.

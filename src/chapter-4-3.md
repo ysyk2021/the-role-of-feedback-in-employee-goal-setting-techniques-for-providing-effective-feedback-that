@@ -1,4 +1,4 @@
-Chapter 4: Providing Positive Feedback that Encourages Growth: Building Confidence and Self-Esteem Through Positive Feedback
+Building Confidence and Self-Esteem Through Positive Feedback
 ============================================================================================================================
 
 Providing positive feedback is an important part of driving employee performance and encouraging growth. In this chapter, we'll explore how positive feedback can help build confidence and self-esteem in employees.
