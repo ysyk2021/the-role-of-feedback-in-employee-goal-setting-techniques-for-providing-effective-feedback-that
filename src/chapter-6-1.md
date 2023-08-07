@@ -1,4 +1,4 @@
-Chapter 4: Cultivating a Growth Mindset Around Feedback
+Cultivating a Growth Mindset Around Feedback
 =======================================================
 
 Feedback plays a crucial role in employee goal setting techniques, driving performance, and fostering professional development within organizations. However, to fully leverage the power of feedback, it is essential to cultivate a growth mindset among employees. In this chapter, we will explore strategies and best practices for developing a growth mindset around feedback.
