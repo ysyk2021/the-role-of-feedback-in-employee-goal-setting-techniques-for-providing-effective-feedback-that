@@ -1,5 +1,3 @@
-Techniques for Providing Positive Feedback
-===================================================
 
 In this chapter, we will explore techniques for providing positive feedback to employees. Positive feedback plays a crucial role in motivating and reinforcing desired behavior, driving performance, and fostering a positive work environment. Understanding and implementing these techniques can help managers and leaders effectively deliver positive feedback that inspires and recognizes employees' accomplishments.
 

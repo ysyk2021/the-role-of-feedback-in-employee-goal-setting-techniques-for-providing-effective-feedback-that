@@ -1,5 +1,3 @@
-Chapter 3: Developing SMART Goals and Objectives
-================================================
 
 In order to effectively use feedback to drive performance, it is important to develop specific, measurable, achievable, relevant, and time-bound (SMART) goals and objectives. In this chapter, we will explore the benefits of setting SMART goals and objectives and how to align them with organizational strategy.
 

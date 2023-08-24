@@ -1,5 +1,3 @@
-The Relationship between Feedback and Motivation
-=========================================================
 
 Feedback plays a critical role in motivating employees and driving their performance. In this chapter, we will explore the relationship between feedback and motivation, and how effective feedback techniques can contribute to employee engagement and goal attainment.
 

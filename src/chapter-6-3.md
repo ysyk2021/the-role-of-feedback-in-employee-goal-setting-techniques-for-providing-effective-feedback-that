@@ -1,5 +1,3 @@
-Overcoming Resistance to Feedback
-==========================================
 
 In this chapter, we will explore strategies for overcoming resistance to feedback from employees. Resistance to feedback can hinder growth and development, impacting individual and organizational performance. Understanding and implementing these strategies can help managers and leaders address resistance effectively and create a culture that embraces feedback as an opportunity for improvement.
 

@@ -1,5 +1,3 @@
-Chapter 5: Giving Constructive Feedback that Promotes Improvement
-=================================================================
 
 Providing constructive feedback is an important part of driving employee performance and promoting improvement. In this chapter, we'll explore strategies for giving constructive feedback, the importance of specificity and clarity, and how to address performance gaps through constructive feedback.
 
@@ -28,5 +26,4 @@ Conclusion
 ----------
 
 Giving constructive feedback is crucial for driving employee performance and promoting improvement. By being timely, specific, and neutral in tone, managers can provide feedback that helps employees understand what they need to improve and how they can make positive changes. Additionally, by addressing performance gaps through constructive feedback and working collaboratively with employees to develop a plan for improvement, managers can help employees reach their full potential and contribute to the success of the organization.
-
 

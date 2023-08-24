@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Feedback Success
-====================================================
 
 Providing effective feedback is an important part of driving employee performance and achieving organizational goals. In this chapter, we'll explore metrics for measuring goal achievement and performance improvement, evaluating individual and team performance, and continuous improvement in feedback techniques.
 

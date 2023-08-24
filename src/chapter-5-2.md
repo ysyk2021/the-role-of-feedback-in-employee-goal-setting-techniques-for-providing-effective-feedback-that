@@ -1,5 +1,3 @@
-The Importance of Specificity and Clarity
-==================================================
 
 In this chapter, we will discuss the significance of specificity and clarity when providing feedback in the context of employee goal setting. Specific and clear feedback plays a pivotal role in enhancing performance, fostering growth, and maximizing the effectiveness of goal-setting techniques.
 

@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Effective feedback is a critical component of employee goal setting and performance management. In this chapter, we will explore the importance of effective feedback and how it can impact organizational success.
 

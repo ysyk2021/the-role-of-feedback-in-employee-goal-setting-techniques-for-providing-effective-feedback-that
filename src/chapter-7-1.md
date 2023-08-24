@@ -1,5 +1,3 @@
-The Benefits of Ongoing Feedback
-=========================================
 
 In this chapter, we will explore the numerous benefits that ongoing feedback brings to employee goal setting and performance improvement. Ongoing feedback refers to the continuous process of providing feedback throughout various stages of goal setting, allowing for timely adjustments, skill development, and enhanced performance outcomes.
 

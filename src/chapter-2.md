@@ -1,5 +1,3 @@
-Chapter 2: The Science of Feedback
-==================================
 
 Feedback is a critical component of employee goal setting and performance management. In this chapter, we will explore the science behind feedback, including the theory and research that supports its use, the relationship between feedback and motivation, and techniques for delivering effective feedback.
 

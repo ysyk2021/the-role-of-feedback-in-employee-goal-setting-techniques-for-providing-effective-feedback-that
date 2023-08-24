@@ -1,5 +1,3 @@
-Strategies for Giving Constructive Feedback
-====================================================
 
 In this chapter, we will explore effective strategies for giving constructive feedback as part of employee goal setting techniques. Constructive feedback plays a crucial role in driving performance and facilitating growth. By adopting specific strategies when providing feedback, managers and leaders can ensure that it is well-received, understood, and acted upon.
 

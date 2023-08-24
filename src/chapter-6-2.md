@@ -1,5 +1,3 @@
-Techniques for Receiving Feedback Effectively
-======================================================
 
 In this chapter, we will explore techniques for receiving feedback effectively as an employee. Understanding and implementing these techniques can help individuals embrace feedback as a valuable tool for personal and professional growth.
 

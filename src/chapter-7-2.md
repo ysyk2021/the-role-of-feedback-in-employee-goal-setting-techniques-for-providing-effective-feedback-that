@@ -1,5 +1,3 @@
-Techniques for Implementing Ongoing Feedback
-=====================================================
 
 In this chapter, we will explore various techniques for implementing ongoing feedback in the context of employee goal setting. Ongoing feedback is a continuous process that fosters growth, development, and improved performance outcomes. By utilizing these techniques, organizations can establish an effective framework for providing ongoing feedback that drives performance.
 

@@ -1,5 +1,3 @@
-Overview of Feedback Theory and Research
-=================================================
 
 In this chapter, we will provide an overview of feedback theory and research, exploring the foundational principles and empirical findings that underpin effective feedback strategies. Understanding the theories and research behind feedback can help managers and leaders develop a comprehensive understanding of how to provide feedback that drives performance and supports employee goal setting.
 

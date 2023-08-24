@@ -1,5 +1,3 @@
-Chapter 7: Incorporating Ongoing Feedback into Goal Setting
-===========================================================
 
 Effective goal setting is critical for driving performance and achieving organizational goals. In this chapter, we will explore the benefits of ongoing feedback, techniques for implementing ongoing feedback, and how ongoing feedback can support continuous improvement.
 

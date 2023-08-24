@@ -1,5 +1,3 @@
-Chapter 6: Receiving Feedback as an Opportunity for Growth
-==========================================================
 
 Effective feedback is critical for driving performance and achieving organizational goals. In this chapter, we will explore how to receive feedback as an opportunity for growth.
 

@@ -1,5 +1,3 @@
-Why Understanding Feedback Techniques is Critical for Success
-======================================================================
 
 Feedback plays a vital role in employee goal setting techniques, as it drives performance, fosters growth, and contributes to organizational success. In this chapter, we will explore why understanding feedback techniques is critical for achieving desired outcomes and creating a high-performance culture.
 

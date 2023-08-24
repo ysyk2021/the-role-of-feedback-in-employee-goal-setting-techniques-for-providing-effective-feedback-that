@@ -1,5 +1,3 @@
-Continuous Improvement through Ongoing Feedback
-========================================================
 
 In this chapter, we will delve into the concept of continuous improvement through ongoing feedback in the context of employee goal setting. Continuous improvement is a fundamental aspect of driving performance and achieving organizational success. By leveraging ongoing feedback, organizations can create a culture that embraces growth, innovation, and excellence.
 

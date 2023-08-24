@@ -1,4 +1,3 @@
-# Introduction
 
 Feedback is a key element in any successful workplace. Whether you're a manager looking to motivate your team towards achieving business goals, or an employee seeking guidance on how to improve your performance, effective feedback is crucial.
 

@@ -1,5 +1,3 @@
-Chapter 4: Providing Positive Feedback that Encourages Growth
-=============================================================
 
 Providing positive feedback is an essential part of effective employee goal setting. It not only helps to increase motivation and engagement but also encourages growth and development. In this chapter, we will discuss techniques for providing positive feedback, the power of recognition and rewards, and how positive feedback can help build confidence and self-esteem.
 

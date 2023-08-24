@@ -1,5 +1,3 @@
-Techniques for Delivering Effective Feedback
-=====================================================
 
 In this chapter, we will explore various techniques for delivering effective feedback that drives performance and supports employee goal setting. Providing feedback in a constructive and meaningful manner is crucial for maximizing its impact on employee development, motivation, and performance.
 
