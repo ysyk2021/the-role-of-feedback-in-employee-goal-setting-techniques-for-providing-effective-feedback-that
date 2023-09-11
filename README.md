@@ -1,3 +1,6 @@
+# The Role of Feedback in Employee Goal Setting: Techniques for Providing Effective Feedback that Drives Performance
+
+Book Link: [https://zhengpublishing.com/the-role-of-feedback-in-employee-goal-setting-techniques-for-providing-effective-feedback-that-drives-performance/](https://zhengpublishing.com/the-role-of-feedback-in-employee-goal-setting-techniques-for-providing-effective-feedback-that-drives-performance/)
 
 Feedback is a key element in any successful workplace. Whether you're a manager looking to motivate your team towards achieving business goals, or an employee seeking guidance on how to improve your performance, effective feedback is crucial.
 
